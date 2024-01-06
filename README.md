@@ -1,4 +1,4 @@
-#  Assingment for Lesson 1 
+#  Assignment for Lesson 1 
 
 
 ## This repository contains the exercises and code for the Building Software DSI class 1.
